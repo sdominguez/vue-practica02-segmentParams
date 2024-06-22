@@ -1,5 +1,8 @@
 # vue-practica2
 
+This project sends information from the main View to a second View using URL and segment-params.
+Then, the ResultView presents the information in a *v-card*.
+
 ## Project setup
 ```
 npm install
